@@ -1,0 +1,13 @@
+name = "LanguageReloadUnofficial"
+filename = "languagereload-forge-1.20.1-1.0.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a07f7eb0b8bb7055c90f213841cf8df8c037f50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5814446
+project-id = 1121569

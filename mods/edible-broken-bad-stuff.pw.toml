@@ -1,0 +1,13 @@
+name = "edible broken bad stuff"
+filename = "edible_stuff-2.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d6c72ae25741c6bb9a4be6768298e11c57b09ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6791576
+project-id = 1155834

@@ -1,0 +1,13 @@
+name = "Petrol's Parts (Create add-on)"
+filename = "petrolsparts-1.20.1-1.2.3-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25e34a9c096ec3f02206d43ac49c246942eb359f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6388332
+project-id = 1093607

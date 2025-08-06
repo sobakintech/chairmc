@@ -1,0 +1,13 @@
+name = "Create: Additional Lights"
+filename = "morelights-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d3ea8251524ba302bd94fc6d13f5bb392276176"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6400844
+project-id = 1085408

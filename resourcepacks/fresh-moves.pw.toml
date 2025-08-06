@@ -1,0 +1,13 @@
+name = "Fresh Moves"
+filename = "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7049cc12935ff4be20173c908ad946f530861a4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6105672
+project-id = 990406

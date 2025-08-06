@@ -1,0 +1,13 @@
+name = "Petrolpark Library"
+filename = "petrolpark-1.20.1-1.4.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87fca2d4283a35bc187ddd3327fc6459b449b19a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6814210
+project-id = 1093595

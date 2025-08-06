@@ -1,0 +1,13 @@
+name = "ChairMC"
+author = "SobakinTech"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "269b2db1dbf08fd7be010324bf617b4cf4ad06af134a1823486e3ce5ba522aa5"
+
+[versions]
+forge = "47.4.5"
+minecraft = "1.20.1"

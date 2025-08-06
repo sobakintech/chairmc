@@ -1,0 +1,13 @@
+name = "Mopeds"
+filename = "mopeds_1.1_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eac14c1a2faa61d5cc57fb44cb95743729a41f63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5229643
+project-id = 965638

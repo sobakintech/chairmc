@@ -1,0 +1,13 @@
+name = "Aimz - Tiny RPG Crosshair"
+filename = "Aimz - Tiny Crosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d74bffc3af80188cdfc8fbeb11698de315e91683"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4967817
+project-id = 951803
