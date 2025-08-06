@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/securitycraft-client.toml"
-hash = "ddf8f3e31e7d7113444904d8e195cfa5bb730cfc2f7a1b7634568e73ea0747e1"
+hash = "93ddce6ae26e54c16257c2f76074b95b2e7bff351bb57c97068b0c17557a981b"
 
 [[files]]
 file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
