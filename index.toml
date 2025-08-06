@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/securitycraft-client.toml"
+hash = "49f19f74726ce8d3b19b0d291fa3fe4e17494c6e925cff1958941cafef5f5dad"
+
+[[files]]
 file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
 hash = "76a47dbcb3ab00a650e6224e093cbbf967d720035bd833a79129abc8d31d3e34"
 
@@ -426,3 +430,7 @@ metafile = true
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "9831949028bfe3415724f70fa9bcd4ba67ade501b3c6054d9ba5c20a998ce701"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "1b886736f05e7701f4295b4828283932a56fadcbb8787216a1e1273d3171fa18"
