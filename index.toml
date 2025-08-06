@@ -341,7 +341,3 @@ metafile = true
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "9831949028bfe3415724f70fa9bcd4ba67ade501b3c6054d9ba5c20a998ce701"
 metafile = true
-
-[[files]]
-file = "vercel.json"
-hash = "289b2ea19ed9d4c782cda9ff1a0a0f2e8aab2731648bbe8b6c1279b146c39dbb"
