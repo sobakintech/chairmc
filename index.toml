@@ -29,8 +29,28 @@ file = "mods/ToadLib-1.3.4.1-1.20-1.20.1.jar"
 hash = "d5e9022c42f57dd81957f9e828e63869eb6b1919cf095ac885884c3843a2f4da"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "bf4133b4ac7b08983c98dcfb4cbfe4cc2b10698efb935d19378fd6a27490dd22"
+metafile = true
+
+[[files]]
 file = "mods/animaticareforged.pw.toml"
 hash = "259813418da334bfaa868cc16db96a9094f03bf22d3537fa719ceaa8bf619fb4"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
 metafile = true
 
 [[files]]
@@ -50,7 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
@@ -61,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "4123cb2c965568652799530427cdd9e94b5f6f463ba3a8e92b715ef7b0ed10eb"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -164,6 +194,11 @@ hash = "9fd99767788ac2057a81fc222cfc5d21930ea23698be8fad70899f21c6c54d4e"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "274986927903f34475cd996a8fa642e296d32769e3a74b658b835ba597369043"
 metafile = true
@@ -213,13 +248,28 @@ file = "mods/geckolib-forge-1.20.1-4.7.3.jar"
 hash = "71fe976b38c042dfb77449caa34f801f88d7380cfbcf6e5c1f49e10664b3bb9f"
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "1635aa0e0df9d27f22de030955c8690061970abe26e3e913c4d950227aba4916"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "591082f1380a5542d2d1acb537d8d53ee26b5492a0b757d086729e926465eca8"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "5ef78421a13ef39b9708f37997d797fa9ae70bdbb5da14b6356299f9cd33a2c4"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "588e222f5cf824fb8317bd3800752c8a4a86f3c707f70b35420f8c9a9599fe43"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
 
 [[files]]
@@ -235,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/languagereloadunofficial.pw.toml"
 hash = "b7c01cadd843d6e4396e633b51dd6c6a3b464404fe54c4e779392b4fa9628986"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
 metafile = true
 
 [[files]]
@@ -281,8 +336,33 @@ hash = "f5e828787795697bdbff102333bdd756eadc181967c6f64460b292b0ca686952"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "3dbc10daf7a2ebcbc7ff240931d5fada41900930183d48e3996d893a218f544d"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e1ba99a16736c1f1cf3f88f5f88be42b529922a066ca4c1f67384c5b69d37a4b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "44307037183b08d9bffc68198280912245f8b93cf7504678eccd2ac11ca6fc0b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "814445baf530024286284956041e3a3fcbde966e640aaf6b0f323c032360c9e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "9e8bc9593650b5e48fa1624e0eafe522b65916ad9d3c73199e88cfe22818f0e4"
 metafile = true
 
 [[files]]
@@ -301,6 +381,11 @@ hash = "89af30ce7c0d75055fb07df721bf5d16112a2450437c9690516a63cd9a8f78fc"
 [[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "0f4f437c840ff2da2e28973124e11898c4a8df91996b54c416ebb23c239c08e5"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
 
 [[files]]
