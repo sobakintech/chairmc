@@ -78,6 +78,11 @@ hash = "d0717dc2e330717a01db528565269a6706ea308deb735969dd42cd479f25abea"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -357,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "b33e8cd1a5634fc9bf75c39ea283f74cc20aaae25da876682393336aa212c638"
 metafile = true
 
 [[files]]
