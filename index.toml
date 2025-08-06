@@ -63,6 +63,11 @@ hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
 
 [[files]]
+file = "mods/befall-faces-everywhere.pw.toml"
+hash = "6534f93f70629d8d1111322faf40397a09e20b8b832fd24baff7dec07b95b292"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
@@ -235,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e5650ca09fdb53d1c197b4b7d000c432a566c559381106edeee0e2abc2ce1cd0"
+metafile = true
+
+[[files]]
+file = "mods/fastboot.pw.toml"
+hash = "d4b18897dbe6c897b49afd13ccd6402c6a8aeb4935e94e98414d594a4f67791f"
 metafile = true
 
 [[files]]

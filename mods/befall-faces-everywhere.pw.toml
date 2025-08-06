@@ -1,0 +1,13 @@
+name = "Befall ( Faces Everywhere )"
+filename = "befall-1.6.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8636e110834e13989a153abac27f3b75ecd1d74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6470933
+project-id = 1224751
