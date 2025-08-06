@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".GITIGNORE"
-hash = "9515dd3c0b8116eb6c6b380aabf6f3cd92a05cafe45fbc4158629dae20fc68e8"
-
-[[files]]
 file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
 hash = "76a47dbcb3ab00a650e6224e093cbbf967d720035bd833a79129abc8d31d3e34"
 
