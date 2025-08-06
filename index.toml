@@ -213,6 +213,11 @@ hash = "274986927903f34475cd996a8fa642e296d32769e3a74b658b835ba597369043"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-torches.pw.toml"
+hash = "69aaac3512cc2b6766260d707e28d56d9b53eb7a85532d9fe63052ebb046927c"
+metafile = true
+
+[[files]]
 file = "mods/edible-broken-bad-stuff.pw.toml"
 hash = "6859b314602a670f491bf5174979e5a5c8a450782493d5c3f91e45683645ee26"
 metafile = true
@@ -386,6 +391,11 @@ hash = "c2fe3c3920438cdf48a47d5960cc49b8fee701040c38eea6eb4873266760888e"
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "e3a2b7e4cf982ab5bebe2e6116173aa2aadb313d52c1bb11886772f83a848a9f"
 metafile = true
 
 [[files]]
