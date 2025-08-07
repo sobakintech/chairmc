@@ -317,6 +317,16 @@ hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
 hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
 
@@ -380,6 +390,11 @@ hash = "e1ba99a16736c1f1cf3f88f5f88be42b529922a066ca4c1f67384c5b69d37a4b"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "7c977a68e1c06707099b5e194e67f042a336dab4eb509e7cd22c02728e81369a"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "44307037183b08d9bffc68198280912245f8b93cf7504678eccd2ac11ca6fc0b"
 metafile = true
@@ -387,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "814445baf530024286284956041e3a3fcbde966e640aaf6b0f323c032360c9e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "455448cbb5d86a9c09f3c6c77785a39f3de03c59a90c622ae39bc3af832dd10c"
 metafile = true
 
 [[files]]
