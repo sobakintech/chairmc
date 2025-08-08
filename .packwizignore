@@ -1,4 +1,5 @@
-.GITIGNORE
+.gitignore
+.gitattributes
 vercel.json
 unsup.ini
 README.md
