@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/config.yml"
+hash = "05905c8f244d51298bbd1778c286c8a6c9f7adf0d0e5a5f72f764d71ec82cc64"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/mod_suggestion.md"
+hash = "3bd41f49e05f850054f4d80d80ffedcb5224f22c833611f708e18b7029742ff6"
+
+[[files]]
 file = "config/securitycraft-client.toml"
 hash = "93ddce6ae26e54c16257c2f76074b95b2e7bff351bb57c97068b0c17557a981b"
 
@@ -372,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4bc420f77cac5e4ededc3c1f67d937757220aa81a1c6657515d29a74af01703e"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0ef2a47f506c83478052262348c105c307d970fbff3f6b0917e46d67f61d8953"
 metafile = true
 
 [[files]]
