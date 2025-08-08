@@ -63,11 +63,6 @@ hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
 
 [[files]]
-file = "mods/befall-faces-everywhere.pw.toml"
-hash = "6534f93f70629d8d1111322faf40397a09e20b8b832fd24baff7dec07b95b292"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
@@ -417,11 +412,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.4.15.jar"
 hash = "c2fe3c3920438cdf48a47d5960cc49b8fee701040c38eea6eb4873266760888e"
-
-[[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
-metafile = true
 
 [[files]]
 file = "mods/veinminer.pw.toml"
