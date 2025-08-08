@@ -3,11 +3,11 @@ filename = "create_easy_structures-0.2-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cae27a3b20cf7286ae427c319e8b7f507e61043a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/z69Pxatv/versions/eLNGGADr/create_easy_structures-0.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "74ab7a7c50c4099315dba0df6dc9968179b1fdfaa75186ca43a974cd52faa51904b759207693e400b1dc53acf4a7f58d3855ad0cb8ebe5902d8fc4fb3e3ea30b"
 
 [update]
-[update.curseforge]
-file-id = 6323750
-project-id = 949158
+[update.modrinth]
+mod-id = "z69Pxatv"
+version = "eLNGGADr"

@@ -3,11 +3,11 @@ filename = "edible_stuff-2.1.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0d6c72ae25741c6bb9a4be6768298e11c57b09ea"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vkIyH5Sc/versions/qUnmJrkZ/edible_stuff-2.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "ae9e7a728d4197b3d3f33a67ea86985dd7a76bce19c91b04cf83b6d67e19e40aa5491161bc67d1716dbc7eb6f3626405af491afd56e775b003eddc6148e6d0d9"
 
 [update]
-[update.curseforge]
-file-id = 6791576
-project-id = 1155834
+[update.modrinth]
+mod-id = "vkIyH5Sc"
+version = "qUnmJrkZ"

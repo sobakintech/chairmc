@@ -3,11 +3,11 @@ filename = "create_deepfried-0.1.2-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b45b5afd9a3fba07c5617d496dc3ec10d1351c65"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/76TqKW7O/versions/ddIyDmwi/create_deepfried-0.1.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "dd91dc104fb68758d16830a6aadaf99fff9d7021b4fe79b08dafec44091503d86389bc14e27db8f0522cf457ceffbf00aa1c3ab1deda76cc206e027e1549ed4c"
 
 [update]
-[update.curseforge]
-file-id = 6418070
-project-id = 990016
+[update.modrinth]
+mod-id = "76TqKW7O"
+version = "ddIyDmwi"

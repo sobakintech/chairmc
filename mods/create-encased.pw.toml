@@ -3,11 +3,11 @@ filename = "Create Encased-1.20.1-1.7.2-fix1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cf2d2f0fb117f1759d0e193f8fcad47b1d882b4d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hSSqdyU1/versions/usE25rBf/Create%20Encased-1.20.1-1.7.2-fix1.jar"
+hash-format = "sha512"
+hash = "bfc692851e342cd2e22bbe3b8627247f145dbac72d6737941486262079e0aad87bad597439557f31eecb17cd703de4ae7c5e8d6706190a4362d4f43003f7fcc7"
 
 [update]
-[update.curseforge]
-file-id = 6767414
-project-id = 829380
+[update.modrinth]
+mod-id = "hSSqdyU1"
+version = "usE25rBf"
