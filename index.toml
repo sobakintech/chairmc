@@ -115,6 +115,11 @@ hash = "97d53eb23caae90250d61a8624ffccf91ca16df07614b294cdafbc387f09aa26"
 metafile = true
 
 [[files]]
+file = "mods/create-kart.pw.toml"
+hash = "8bd086e706b7ea5cca7b6146efd0104c729558028d1439d533fc7b8ac5319c78"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "a6feb15f78ee7192942287790965b40412221ac822985fdb18f05605fc951d78"
 metafile = true
