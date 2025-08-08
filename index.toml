@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/config.yml"
-hash = "05905c8f244d51298bbd1778c286c8a6c9f7adf0d0e5a5f72f764d71ec82cc64"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/mod_suggestion.md"
-hash = "3bd41f49e05f850054f4d80d80ffedcb5224f22c833611f708e18b7029742ff6"
-
-[[files]]
 file = "config/securitycraft-client.toml"
 hash = "93ddce6ae26e54c16257c2f76074b95b2e7bff351bb57c97068b0c17557a981b"
 
