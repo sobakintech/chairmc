@@ -1,13 +1,13 @@
-name = "Aimz - Tiny RPG Crosshair"
+name = "Aimz Tiny Crosshair"
 filename = "Aimz - Tiny Crosshair.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "d74bffc3af80188cdfc8fbeb11698de315e91683"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/S2Zdxlhc/versions/2JMS2voU/Aimz%20-%20Tiny%20Crosshair.zip"
+hash-format = "sha512"
+hash = "4d68e92d764364c76e0c60499bf9b665407e3ea3a51f7d79427905dca90904c83a53a7b78f911d75af06a99921109426635a7449c580045b89baa3403b95dee6"
 
 [update]
-[update.curseforge]
-file-id = 4967817
-project-id = 951803
+[update.modrinth]
+mod-id = "S2Zdxlhc"
+version = "2JMS2voU"

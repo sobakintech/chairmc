@@ -3,11 +3,11 @@ filename = "createbicbit-1.20.1-1.0.1B.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a5a14ec9de38d1e0af4b4dece9a0dc8cb9b1901"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/16DuAG4k/versions/ivGh4e6M/createbicbit-1.20.1-1.0.1B.jar"
+hash-format = "sha512"
+hash = "6d266e14f4743934c7ebb1547fbec2c04116cf745a7701b5ebeefb6476b9c2dcfd682427a6b0196f0b66aa442629929c4b3188f80162c5af7999db35ebc1ccf1"
 
 [update]
-[update.curseforge]
-file-id = 6757110
-project-id = 918751
+[update.modrinth]
+mod-id = "16DuAG4k"
+version = "ivGh4e6M"
