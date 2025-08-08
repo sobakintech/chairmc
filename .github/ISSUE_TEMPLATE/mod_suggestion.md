@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-**Name:**
-
-
 **Link:** (Modrinth if available)
 
 
