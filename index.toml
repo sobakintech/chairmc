@@ -270,11 +270,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "c86ed549f7bbdd5fa36cac2af3f990d58a2c1b77bb256335f7876348d2e629e0"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "41e24ed037adefe00c62d1935f428cc71cb733a04e8012223d66004e52f5ef9d"
 metafile = true
