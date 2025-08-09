@@ -15,11 +15,6 @@ hash = "3f0721e1aacc6c8aeb3f7930530865392bc05374476cefa5ed2d05aa897f5a65"
 metafile = true
 
 [[files]]
-file = "mods/animationoverhaul.pw.toml"
-hash = "a35153af121d2440285d016ffc6c49c486d4b956d01597b0a1c28ee81f11c44b"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -347,11 +342,6 @@ metafile = true
 [[files]]
 file = "mods/morechathistory-reforged.pw.toml"
 hash = "884077a9c03829e0006652708f2e5f459f6f727390e003ee815b6abf40936a56"
-metafile = true
-
-[[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
 metafile = true
 
 [[files]]
