@@ -15,6 +15,11 @@ hash = "3f0721e1aacc6c8aeb3f7930530865392bc05374476cefa5ed2d05aa897f5a65"
 metafile = true
 
 [[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "a35153af121d2440285d016ffc6c49c486d4b956d01597b0a1c28ee81f11c44b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -30,8 +35,18 @@ hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
+metafile = true
+
+[[files]]
+file = "mods/better-safe-bed.pw.toml"
+hash = "eaf4a2d8845f11af35065d9d5607fe4b5d0dfb9c01cf6f38b638a7cb3e82caab"
 metafile = true
 
 [[files]]
@@ -40,8 +55,18 @@ hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "efe89d7d8e4a9f6b91b9f88c3f99b842d744f07207cb89e8107f28dff8b14580"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "de0ab85ea06d797c2b3b5c70c8f1fdfc1f76fb2530f792a89f4f6d9807fc649a"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
 
 [[files]]
@@ -52,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
@@ -170,6 +200,16 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "d709d46fd4c3c5ee65c92ee43f1f5e7d2ad091b5bfe3bd996d50b4922023c7a7"
+metafile = true
+
+[[files]]
+file = "mods/duckling.pw.toml"
+hash = "ff6534dcb43dd78b4758a8e9b6cf9d473f71c295a3ad0c70e8fc4e75a1464d84"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
@@ -220,6 +260,11 @@ hash = "4940a95ccc3e64748655a4e9fa4ce866f3a85da1bba7e9f3d0a3b4741dd4b679"
 metafile = true
 
 [[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "2db3a1221517a6d4344b7359463d115461844f12b001edd8d19395eecc12a7f3"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "d4b18897dbe6c897b49afd13ccd6402c6a8aeb4935e94e98414d594a4f67791f"
 metafile = true
@@ -227,6 +272,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "c86ed549f7bbdd5fa36cac2af3f990d58a2c1b77bb256335f7876348d2e629e0"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "41e24ed037adefe00c62d1935f428cc71cb733a04e8012223d66004e52f5ef9d"
 metafile = true
 
 [[files]]
@@ -310,8 +365,18 @@ hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "da05994ea44ee2e24f3554ca617db6b87a34d8c65e0b80ec85a3dec3e8b93f11"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "3a0d17f56e02f73a91f6e88643df30615849d3af029f6e469f3b80bc849c45d9"
 metafile = true
 
 [[files]]
@@ -332,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "b33e8cd1a5634fc9bf75c39ea283f74cc20aaae25da876682393336aa212c638"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
@@ -390,6 +460,11 @@ hash = "e3a2b7e4cf982ab5bebe2e6116173aa2aadb313d52c1bb11886772f83a848a9f"
 metafile = true
 
 [[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "3cfc1070e53b96ec42fadea40770178eb4a2fdb50246879f570b164c2eb7b197"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "cbf8b60bfd2114d76247f0a8d9f31e3e760069f86d3280aa99bd26881787f045"
 metafile = true
@@ -402,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "a2e5311597030e74df803b2293dbe1e6fe6289a36079b6eb2c53cff23cf0d7e5"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]
