@@ -35,6 +35,11 @@ hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
@@ -121,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deepfried.pw.toml"
-hash = "2b3d7bc0c48db392d6041b9e606d2ba5af1469f5a6d0f8ae490944c4a102edfa"
+hash = "90a744cd3bb03b6246ad4c721aa44fbb52449e9349d9d52bcfc698f32a7a531f"
 metafile = true
 
 [[files]]
@@ -281,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e5763fe550d18dbbad6fe65d1a008312b022fe7020c985014b36fbfa89edce8"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -411,17 +416,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "44307037183b08d9bffc68198280912245f8b93cf7504678eccd2ac11ca6fc0b"
+hash = "fee227f06f4426c3de411320e7c736e503b169a145a6ed899430e9573848ef10"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8478aa3272e0e2e008d570468693a3a2d29130e6751cb8e44915abb8f34e456f"
+hash = "e95c36cccf7e2eef1249ad609c5b0208323dc7e1198a1624520804acc84df57e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "9e8bc9593650b5e48fa1624e0eafe522b65916ad9d3c73199e88cfe22818f0e4"
+hash = "4d1b8e71f9f7f28d63cd220eb9068c65e1ea836131b16b22776cc4c48aebcadd"
 metafile = true
 
 [[files]]
@@ -436,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "c53cd0f91759ec877231226e6ab91dfaa11258a0f5b7cfd188ddf3334dd589f0"
+hash = "cb19b08de8c335a0e69387f2f69fb0dc4652f351a09270954a6189b6171cabc9"
 metafile = true
 
 [[files]]
