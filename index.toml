@@ -260,6 +260,11 @@ hash = "2db3a1221517a6d4344b7359463d115461844f12b001edd8d19395eecc12a7f3"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "d4b18897dbe6c897b49afd13ccd6402c6a8aeb4935e94e98414d594a4f67791f"
 metafile = true
