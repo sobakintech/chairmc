@@ -5,11 +5,6 @@ file = "config/securitycraft-client.toml"
 hash = "93ddce6ae26e54c16257c2f76074b95b2e7bff351bb57c97068b0c17557a981b"
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "bf4133b4ac7b08983c98dcfb4cbfe4cc2b10698efb935d19378fd6a27490dd22"
-metafile = true
-
-[[files]]
 file = "mods/animaticareforged.pw.toml"
 hash = "3f0721e1aacc6c8aeb3f7930530865392bc05374476cefa5ed2d05aa897f5a65"
 metafile = true
@@ -330,6 +325,16 @@ hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -392,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "b33e8cd1a5634fc9bf75c39ea283f74cc20aaae25da876682393336aa212c638"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
 metafile = true
 
 [[files]]

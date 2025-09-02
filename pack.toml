@@ -1,12 +1,12 @@
 name = "ChairMC"
 author = "SobakinTech"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "33b1cd51b2efbbb3ad17bc921a7c9d7cfd4ed3812538ae74f90c7ec690b1a8fc"
+hash = "b2178949555624074d152b0558e9e733175e7e5c35f31ea549993ee90f9cff91"
 
 [versions]
 forge = "47.4.5"
